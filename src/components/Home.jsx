@@ -15,8 +15,8 @@ const Home = () => {
             I'm a Full Stack and Java Developer 
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 3 years of experience building and desgining software.
-            Currently, I love to developing the software and web application using technologies like Core Java, 
+            I have 3 years of experience building and desgining Software and Web applicatio.
+            Currently, I love to developing the code using technologies like Core Java, 
             React, Tailwind, Firebase and RestAPI.
           </p>
 
